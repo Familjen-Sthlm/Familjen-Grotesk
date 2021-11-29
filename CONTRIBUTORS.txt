@@ -7,7 +7,7 @@
 # Names should be added to this file like so:
 #     Name <email address>
 
-Mr Anders Wikström <anders.wikstrom@familjen.se>
-Mr Jonas Bäckman <jonas.backman@familjen.se>
-Mrs Matilda Gysing <matilda.gysing@familjen.se>
-Mr Kristian Möller <kristian.moller@familjen.se>
+Anders Wikström <anders.wikstrom@familjen.se>
+Jonas Bäckman <jonas.backman@familjen.se>
+Matilda Gysing <matilda.gysing@familjen.se>
+Kristian Möller <kristian.moller@familjen.se>
