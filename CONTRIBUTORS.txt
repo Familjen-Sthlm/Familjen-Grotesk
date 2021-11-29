@@ -11,3 +11,4 @@ Anders Wikström <anders.wikstrom@familjen.se>
 Jonas Bäckman <jonas.backman@familjen.se>
 Matilda Gysing <matilda.gysing@familjen.se>
 Kristian Möller <kristian.moller@familjen.se>
+Örjan Nordling <orjan.nordling@familjen.se>
