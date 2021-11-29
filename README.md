@@ -5,4 +5,4 @@ Familjen Grotesk GF is the Google Font version of Familjen Grotesk, and is suita
 The Latin component was designed by Mr Anders Wikström, Mr Jonas Bäckman, Mrs Matilda Gysing, Mr Kristian Möller (Familjen STHLM AB (https://familjen.se)). 
 
 Familjen Grotesk GF project is led by Mr Kristian Möller, a type designer based in Stockholm. 
-To contribute, see [länk till vår Git](url)
+To contribute, see [github.com/Familjen-Sthlm/Familjen-Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk)
