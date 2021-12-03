@@ -1,4 +1,4 @@
-# Familjen Grotesk GF
+# Familjen Grotesk
 
 Familjen Grotesk is a typeface family suitable for both text and headlines.
 
