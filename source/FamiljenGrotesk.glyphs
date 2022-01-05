@@ -1,10 +1,11 @@
 {
-.appVersion = "3091";
+.appVersion = "3108";
 DisplayStrings = (
 "ß",
 "/rightanglebracket-math/exclamdown.case/questiondown.case )}]",
 "¡¿",
-"/parenleft.case dsds/parenright.case/braceleft.case asdas/braceright.case/bracketleft.case asd/bracketright.case"
+"/parenleft.case dsds/parenright.case/braceleft.case asdas/braceright.case/bracketleft.case asd/bracketright.case",
+"/dblgravecomb"
 );
 classes = (
 {
@@ -60,7 +61,7 @@ value = "Familjen Grotesk is a trademark of Familjen STHLM AB";
 },
 {
 name = versionString;
-value = "Version 2.000; Beta; Release 4; Build 8";
+value = "Version 2.000; Beta; Release 4; Build 9";
 },
 {
 name = license;
@@ -197,9 +198,6 @@ alignmentZones = (
 "{600, 15}",
 "{0, -15}",
 "{-200, -15}",
-"{-200, -15}",
-"{-200, -15}",
-"{-200, -15}",
 "{-300, -15}"
 );
 ascender = 1200;
@@ -280,8 +278,6 @@ alignmentZones = (
 "{780, 15}",
 "{600, 15}",
 "{0, -15}",
-"{-200, -15}",
-"{-200, -15}",
 "{-200, -15}",
 "{-300, -15}"
 );
@@ -53080,7 +53076,7 @@ unicode = 0309;
 },
 {
 glyphname = dblgravecomb;
-lastChange = "2021-12-07 10:11:41 +0000";
+lastChange = "2022-01-05 08:23:54 +0000";
 layers = (
 {
 anchors = (
@@ -53096,12 +53092,12 @@ position = "{270, 840}";
 hints = (
 {
 horizontal = 1;
-origin = "{1, 5}";
-target = "{1, 3}";
+origin = "{0, 5}";
+target = "{0, 3}";
 type = Stem;
 },
 {
-origin = "{1, 4}";
+origin = "{0, 4}";
 target = "{0, 0}";
 type = Stem;
 }
@@ -53111,23 +53107,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"459 680 LINE",
-"459 686 LINE",
-"399 840 LINE",
-"309 840 LINE",
-"309 834 LINE",
-"375 680 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "291 680 LINE",
 "291 686 LINE",
 "231 840 LINE",
 "141 840 LINE",
 "141 834 LINE",
 "207 680 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"459 680 LINE",
+"459 686 LINE",
+"399 840 LINE",
+"309 840 LINE",
+"309 834 LINE",
+"375 680 LINE"
 );
 }
 );
@@ -53149,23 +53145,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"517 660 LINE",
-"517 666 LINE",
-"450 840 LINE",
-"306 840 LINE",
-"306 834 LINE",
-"390 660 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "293 660 LINE",
 "294 666 LINE",
 "228 840 LINE",
 "83 840 LINE",
 "83 834 LINE",
 "168 660 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"517 660 LINE",
+"517 666 LINE",
+"450 840 LINE",
+"306 840 LINE",
+"306 834 LINE",
+"390 660 LINE"
 );
 }
 );
