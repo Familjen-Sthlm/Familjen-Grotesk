@@ -1,0 +1,8 @@
+    sources:
+      - FamiljenGrotesk.glyphs
+      - FamiljenGrotesk-Italic.glyphs
+    axisOrder:
+      - wght
+      - ital
+    familyName: "Familjen Grotesk"
+          
