@@ -392,7 +392,6 @@ pos [@AllLetters @Figures_LF]' 20 [period comma]' 20 [@AllLetters @Figures_LF];
 pos L' -20 quoteright' 20 [A Aacute Agrave a agrave aacute acircumflex e egrave eacute u ugrave uacute ucircumflex];
 pos [period comma]' -60 space' 0 [T Tbar Tcaron Tcedilla Tcommaaccent V W Wacute Wcircumflex Wdieresis Wgrave Y Yacute Ycircumflex Ydieresis Ygrave];
 pos [period comma]' -20 space' 0 [v w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave];";
-disabled = 1;
 tag = kern;
 },
 {
@@ -17542,7 +17541,7 @@ color = 10;
 glyphname = gbreve;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-02-25 15:10:40 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17578,7 +17577,7 @@ color = 10;
 glyphname = gcaron;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-02-25 15:10:40 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17614,7 +17613,7 @@ color = 10;
 glyphname = gcircumflex;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-02-25 15:10:40 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17650,7 +17649,7 @@ color = 10;
 glyphname = gcommaaccent;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-02-25 15:10:40 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17686,7 +17685,7 @@ color = 10;
 glyphname = gdotaccent;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-02-25 15:10:40 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
