@@ -8,3 +8,8 @@ The Latin component was designed by Anders Wikström, Jonas Bäckman, Matilda Gy
 
 Familjen Grotesk project is led by Kristian Möller, a type designer based in Stockholm. 
 To contribute, see [github.com/Familjen-Sthlm/Familjen-Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk)
+
+![Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk/blob/master/documentation/fg_aw-002.png)
+![Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk/blob/master/documentation/fg_aw-003.png)
+![Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk/blob/master/documentation/fg_aw-004.png)
+![Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk/blob/master/documentation/fg_aw-005.png)
