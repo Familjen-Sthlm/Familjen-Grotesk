@@ -1,6 +1,9 @@
 {
 .appVersion = "3108";
 .formatVersion = 3;
+DisplayStrings = (
+"…"
+);
 axes = (
 {
 name = Weight;
@@ -50,7 +53,7 @@ wght = {
 };
 }
 );
-date = "2021-12-06 14:26:15 +0000";
+date = "2022-05-31 21:50:07 +0000";
 familyName = "Familjen Grotesk";
 featurePrefixes = (
 {
@@ -17542,7 +17545,7 @@ color = 10;
 glyphname = gbreve;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-05-31 21:38:54 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17578,7 +17581,7 @@ color = 10;
 glyphname = gcaron;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-05-31 21:38:54 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17614,7 +17617,7 @@ color = 10;
 glyphname = gcircumflex;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-05-31 21:38:54 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17650,7 +17653,7 @@ color = 10;
 glyphname = gcommaaccent;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-05-31 21:38:54 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -17686,7 +17689,7 @@ color = 10;
 glyphname = gdotaccent;
 kernLeft = g;
 kernRight = g;
-lastChange = "2022-02-24 12:28:27 +0000";
+lastChange = "2022-05-31 21:38:54 +0000";
 layers = (
 {
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -52056,7 +52059,7 @@ unicode = 775;
 {
 color = 3;
 glyphname = dotaccentcomb_macroncomb;
-lastChange = "2022-02-18 14:13:03 +0000";
+lastChange = "2022-05-31 21:39:15 +0000";
 layers = (
 {
 anchors = (
@@ -52076,6 +52079,17 @@ type = Stem;
 origin = (0,3);
 target = (0,1);
 type = Stem;
+},
+{
+horizontal = 1;
+origin = (1,11);
+target = (1,5);
+type = Stem;
+},
+{
+origin = (1,8);
+target = (1,2);
+type = Stem;
 }
 );
 layerId = "53F1C36F-0CF6-4FBE-93F4-60C790418F6C";
@@ -52090,7 +52104,21 @@ nodes = (
 );
 },
 {
-ref = dotaccentcomb;
+closed = 1;
+nodes = (
+(415,684,o),
+(443,714,o),
+(443,758,cs),
+(443,793,o),
+(421,816,o),
+(382,816,cs),
+(338,816,o),
+(311,787,o),
+(311,743,cs),
+(311,707,o),
+(332,684,o),
+(371,684,cs)
+);
 }
 );
 width = 600;
@@ -52114,7 +52142,21 @@ nodes = (
 );
 },
 {
-ref = dotaccentcomb;
+closed = 1;
+nodes = (
+(425,669,o),
+(462,706,o),
+(462,760,cs),
+(462,803,o),
+(434,831,o),
+(383,831,cs),
+(325,831,o),
+(288,795,o),
+(288,741,cs),
+(288,697,o),
+(316,669,o),
+(367,669,cs)
+);
 }
 );
 width = 600;
@@ -57464,5 +57506,5 @@ name = vStem0;
 );
 unitsPerEm = 1200;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
